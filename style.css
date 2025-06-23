@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+	color: silver;
+}
+#center {
+	left: 50%;
+	top: 30%;
+	position: absolute;
+	transform: translateX(-50%);
+	font-family: Verdana;
+	font-size: 2rem;
+}
