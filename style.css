@@ -2,11 +2,16 @@ body {
 	background-color: black;
 	color: silver;
 }
-#center {
+.center {
 	left: 50%;
 	top: 30%;
 	position: absolute;
 	transform: translateX(-50%);
+}
+#bigText {
 	font-family: Verdana;
 	font-size: 2rem;
+}
+a {
+	color: white;
 }
